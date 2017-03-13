@@ -1,5 +1,0 @@
-languageCode = "en-us"
-title = "It works on my system!"
-baseURL = "https://hashfyre.github.io"
-publishDir = "docs"
-pygmentsuseclasses = true
